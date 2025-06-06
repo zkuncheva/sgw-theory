@@ -1,0 +1,6 @@
+Package: SGNprops
+Type: Package
+Title: Properties of temporal laplacian
+Version: 0.0.1.0
+RoxygenNote: 7.2.3
+Encoding: UTF-8
